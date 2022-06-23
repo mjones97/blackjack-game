@@ -1,0 +1,35 @@
+
+body {
+    background-image: url("data:image/jpeg;base64,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");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 60px;
+}
+
+#message-el {
+    font-size: 28px;
+    font-style: italic;
+}
+
+button {
+    background-color: goldenrod;
+    color: #000;
+    width: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
